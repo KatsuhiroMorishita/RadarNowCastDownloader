@@ -1,0 +1,34 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+RadarNowCastDownloader
+</name>
+</assembly>
+<members>
+<member name="P:RadarNowCastDownloader.My.Resources.Resources.ResourceManager">
+	<summary>
+  このクラスで使用されているキャッシュされた ResourceManager インスタンスを返します。
+</summary>
+</member><member name="P:RadarNowCastDownloader.My.Resources.Resources.Culture">
+	<summary>
+  厳密に型指定されたこのリソース クラスを使用して、すべての検索リソースに対し、
+  現在のスレッドの CurrentUICulture プロパティをオーバーライドします。
+</summary>
+</member><member name="T:RadarNowCastDownloader.My.Resources.Resources">
+	<summary>
+  ローカライズされた文字列などを検索するための、厳密に型指定されたリソース クラスです。
+</summary>
+</member><member name="M:RadarNowCastDownloader.Form1.clockCheckTimer_Tick(System.Object,System.EventArgs)">
+	<summary>
+ タイマーが起動するごとに、気象庁のHPを確認してレーダーナウキャストの九州の図をダウンロードする
+ 
+ [開発履歴]
+ 2011/9/29 今日も夜。
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
